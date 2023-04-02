@@ -1,3 +1,5 @@
+#include <portaudio.h>
+#include <portmidi.h>
 #include <ncurses.h>
 int main()
 {

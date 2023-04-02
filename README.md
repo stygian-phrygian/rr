@@ -111,3 +111,9 @@ operator -> motion/textobject
 ## Libraries
 Do I *really* need to abstract away portaudio/portmidi and ncurses? Really?
 
+audio engine
+- 16 tracks
+- 2 sends
+
+tui engine
+- one grid layout
